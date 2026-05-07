@@ -1,6 +1,6 @@
 # FlowMind
 
-Deployment-ready visual AI pipeline debugger.
+[Live link](https://flowmind-8982lfi0s-manav1913s-projects.vercel.app/dashboard)
 
 ## Run locally
 
