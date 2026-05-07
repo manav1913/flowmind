@@ -250,6 +250,4 @@ These aren't hypothetical. At scale (10k+ pipeline runs/day), the insights FlowM
 
 ---
 
-## License
 
-MIT © 2025
