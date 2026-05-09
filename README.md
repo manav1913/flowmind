@@ -1,6 +1,6 @@
 # FlowMind
 
-[Live link](https://flowmind-8982lfi0s-manav1913s-projects.vercel.app/dashboard)
+[Live link](https://flowmind-silk-six.vercel.app/dashboard))
 
 ## Run locally
 
